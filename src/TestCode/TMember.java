@@ -13,6 +13,7 @@ import mainSrc.Member;
 public class TMember {
 	Member newMember;
 	Member oldMember;
+	Member nowMember;
 	@Test
 	public void Test1() {
 //		System.out.println(newMember);
